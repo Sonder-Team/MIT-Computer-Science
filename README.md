@@ -33,3 +33,11 @@
 | [18.02](https://ocw.mit.edu/courses/18-02-multivariable-calculus-fall-2007/) | Calculus II: Multivariable Calculus |
 | [8.02](https://ocw.mit.edu/courses/8-02-physics-ii-electricity-and-magnetism-spring-2019/) | Physics II: Electricity And Magnetism |
 | [Soon]() | (elective course) |
+
+## Sophmore Year
+
+### Semester 3
+
+| Course Number  | Course Name |
+| ------------- | ------------- |
+| [Soon]() | ... |
