@@ -1,7 +1,7 @@
 <h1 align="center">MIT Computer Science</h1>
 
 <p align="center">
-    <img src="Logo/MIT-Logo.png" alt="Material Bread logo">
+    <img src="logo/mit-logo.svg" alt="Material Bread logo">
 </p>
 <h3 align="center">Massachusets Institute of Technology</h3>
 
