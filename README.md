@@ -41,3 +41,9 @@
 | Course Number  | Course Name |
 | ------------- | ------------- |
 | [Soon]() | ... |
+
+### Semester 4
+
+| Course Number  | Course Name |
+| ------------- | ------------- |
+| [Soon]() | ... |
