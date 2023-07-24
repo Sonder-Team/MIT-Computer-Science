@@ -30,8 +30,8 @@
 | Course Number  | Course Name |
 | ------------- | ------------- |
 | [6.0002](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/) | Introduction to Computational Thinking and Data Science |
-| [18.02](https://ocw.mit.edu/courses/18-02-multivariable-calculus-fall-2007/) | Calculus II: Multivariable Calculus |
-| [8.02](https://ocw.mit.edu/courses/8-02-physics-ii-electricity-and-magnetism-spring-2019/) | Physics II: Electricity And Magnetism |
+| [18.02](https://ocw.mit.edu/courses/18-02-multivariable-calculus-fall-2007/) | Calculus II: Multivariable Calculus (core course) |
+| [8.02](https://ocw.mit.edu/courses/8-02-physics-ii-electricity-and-magnetism-spring-2019/) | Physics II: Electricity And Magnetism (core course) |
 | [Soon]() | (elective course) |
 
 ## Sophmore Year
@@ -40,7 +40,10 @@
 
 | Course Number  | Course Name |
 | ------------- | ------------- |
-| [Soon]() | ... |
+| [6.042J](https://ocw.mit.edu/search/?q=Mathematics+for+Computer+Science) | Mathematics for Computer Science (core course) |
+| [6.006](https://ocw.mit.edu/search/?q=introduction%20to%20algorithm) | Introduction to Algorithm (core course) |
+| [6.01](https://ocw.mit.edu/search/?q=Introduction%20to%20EECS%20via%20Robotics) | Introduction to EECS via Robotics (core course) |
+| [Soon]() | (elective course) |
 
 ### Semester 4
 
