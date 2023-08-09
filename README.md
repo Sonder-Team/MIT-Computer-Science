@@ -49,4 +49,6 @@
 
 | Course Number  | Course Name |
 | ------------- | ------------- |
-| [Soon]() | ... |
+| [6.005](https://ocw.mit.edu/search/?q=6.005) | Elemenst of Software Construction (core course) |
+| [18.600](https://ocw.mit.edu/search/?q=18.600) | Introduction to Probability and Statistics (core courses) |
+| [Soon]() | (elective course) |
